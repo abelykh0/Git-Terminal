@@ -1,7 +1,7 @@
 # Beautify Your Windows Terminal With posh-git and oh-my-posh
 If you use Git then you want to have some visual information when you make changes in your terminal.
 
-![image](https://github.com/abelykh0/Git-Terminal/assets/11560318/3de64fef-dda2-4889-aebb-32ef05568840)
+![image](https://github.com/abelykh0/Git-Terminal/blob/main/pictures/Goal.png)
 
 ## Install Windows Terminal
 ```
@@ -41,9 +41,9 @@ Select `CascadiaCode`
 
 ## Change Windows Terminal Settings
 
-![image](https://github.com/abelykh0/Git-Terminal/assets/11560318/e425cd05-c969-445f-8d82-ec3467e53930)
+![image](https://github.com/abelykh0/Git-Terminal/blob/main/pictures/Settings1.png)
 
-![image](https://github.com/abelykh0/Git-Terminal/assets/11560318/83667d38-4820-4293-b9bc-6ed80ce9ae9f)
+![image](https://github.com/abelykh0/Git-Terminal/blob/main/pictures/Settings2.png)
 
 ## Links:
 https://github.com/dahlbyk/posh-git
