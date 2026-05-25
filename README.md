@@ -31,6 +31,7 @@ notepad $PROFILE
 ```
 Import-Module posh-git
 oh-my-posh init pwsh | Invoke-Expression
+Set-PSReadLineOption -PredictionViewStyle ListView
 ```
 
 ## Install the Fonts
